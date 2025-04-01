@@ -1,7 +1,7 @@
 {
   "name": "straylight-systems",
   "description": "The official website for Straylight Systems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Chad VanGaalen <chad@straylight.systems>",
   "dependencies": {
     "axios": "^1.8.1",
